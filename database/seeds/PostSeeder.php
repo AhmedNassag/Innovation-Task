@@ -16,7 +16,7 @@ class PostSeeder extends Seeder
         ([
             'title_en' => 'English Title',
             'title_ar' => 'العنوان العربى',
-            'body' => 'This is The Body',
+            'body'     => 'This is The Body',
         ]);
     }
 }
