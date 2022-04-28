@@ -1,4 +1,4 @@
-<?php 
+<?php
 return
 [
     //App Page
@@ -33,7 +33,7 @@ return
     'Email'=>'Email',
 
     //User Index Page
-    'Users Table'=>'Admins Table',
+    'Users Table'=>'Users Table',
     'Add New User'=>'Add New User',
     'Number'=>'Number',
     'Name'=>'Name',
@@ -82,5 +82,5 @@ return
     'Enter Second Address'=>'Enter Second Address',
     'Update Address'=>'Update Address',
     'Cancel'=>'Cancel',
-    
+
 ];
