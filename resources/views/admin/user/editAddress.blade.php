@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.app')
 
 
 @section('title')
@@ -35,7 +35,7 @@
                                         </button>
                                     </div>
                                 @endif
-                                
+
                                 <form action="/user-updateAddress/{{$address->id}}" method="POST">
                                     @csrf
                                     <div class="row">
